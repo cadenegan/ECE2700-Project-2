@@ -1,0 +1,25 @@
+# Vivado generated directories; recreate these by opening/running the project.
+.Xil/
+*.cache/
+*.hw/
+*.sim/
+*.runs/
+*.gen/
+*.ip_user_files/
+*.xpr.zip
+
+# Generated logs, journals and waveform databases.
+*.log
+*.jou
+*.str
+*.wdb
+*.pb
+
+# Local editor/OS state.
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Keep project inputs tracked: .xpr, .srcs/, HDL, .xdc, .xci, .bd,
+# waveform configurations (.wcfg), simulation inputs, and Tcl scripts.
